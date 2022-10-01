@@ -10,4 +10,6 @@ The summary() function gives us details about each variable, including its chara
 
 
 
-Then, for a neater appearance, we rename our variables.
+Then, for a neater appearance, we rename our variables and start coding.
+
+
